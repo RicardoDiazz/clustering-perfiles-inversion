@@ -15,7 +15,7 @@ Stack Tecnológico
 
 Librerías principales: yfinance, pandas, scikit-learn (PCA, KMeans), matplotlib.
 
-Entorno: Google Colab.
+Entorno: Python.
 
 Resultados Preliminares
 A la fecha, el modelo ha identificado 4 perfiles de inversión óptimos que logran capturar la dinámica de volatilidad del mercado con una varianza explicada del 64.98%.
